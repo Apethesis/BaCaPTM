@@ -1,0 +1,14 @@
+name = "TFC Tinkers"
+filename = "tfc_tinkers-1.5.7.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4361796caf952d49512d1c996aec106faef9b433"
+
+[update]
+[update.curseforge]
+file-id = 3432435
+project-id = 352028

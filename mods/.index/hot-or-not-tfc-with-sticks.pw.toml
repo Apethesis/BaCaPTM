@@ -1,0 +1,14 @@
+name = "Hot or Not - TFC (with sticks)"
+filename = "HotOrNotTFC (with sticks)-1.12.2-1.1.7.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "7faf9087ccbf0c11235ec62c85b78cdc75eb8a90"
+
+[update]
+[update.curseforge]
+file-id = 3381971
+project-id = 499096

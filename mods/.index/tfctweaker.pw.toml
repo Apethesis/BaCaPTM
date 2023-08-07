@@ -1,0 +1,14 @@
+name = "tfctweaker"
+filename = "tfctweaker-2.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "150dec858e6045ed86e4f956b00d01bacb650930"
+
+[update]
+[update.curseforge]
+file-id = 3613362
+project-id = 397746

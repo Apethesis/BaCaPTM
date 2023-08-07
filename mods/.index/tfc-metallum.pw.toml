@@ -1,0 +1,14 @@
+name = "TFC: Metallum"
+filename = "TFC-Metallum-MC1.12.2-1.4.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5fbfc300d2660e10a6249b160aeac347367c6131"
+
+[update]
+[update.curseforge]
+file-id = 3735220
+project-id = 339156

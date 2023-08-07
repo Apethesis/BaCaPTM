@@ -1,0 +1,14 @@
+name = "Borderless Mining"
+filename = "FullscreenWindowed-1.12-1.6.0-1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/kYq5qkSL/versions/0.0.0-1.6.0%2B1.12/FullscreenWindowed-1.12-1.6.0-1.jar"
+hash-format = "sha512"
+hash = "f450d40fd59ab1033d92a658433f4b14d7e6da500d82012e9eb2db69880225876b8e08505b9e4b10278c770d93d7f2ce0fa31ea6bf652bfc5891e7b195d54228"
+
+[update]
+[update.modrinth]
+mod-id = "kYq5qkSL"
+version = "EMFjX5cf"
